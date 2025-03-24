@@ -334,19 +334,19 @@
   },
   {
     "id": 24,
-    "title": "Interstellar",
-    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-    "movie_year": 2014,
-    "director": "Christopher Nolan",
+    "title": "1917",
+    "description": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "movie_year": 2019,
+    "director": "Sam Mendes",
     "actors": [
-      "Matthew McConaughey",
-      "Anne Hathaway",
-      "Jessica Chastain",
-      "Michael Caine",
-      "Casey Affleck"
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden"
     ],
-    "poster_url": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "price": "150.00"
+    "poster_url": "https://image.tmdb.org/t/p/original/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg",
+    "price": "110.00"
   },
   {
     "id": 25,
